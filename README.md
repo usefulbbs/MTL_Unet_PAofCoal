@@ -10,5 +10,7 @@
 The codes utilized in this project includes,
 
 (1) thre_sigma_IC.m : An iterative outlier detection method based on the Pauta criterion and Euclidean distance (I-PC-ED)
+
 (2) SPXY.py: Sample set Portioning based on a joint X-Y distance (SPXY) algorithm
+
 (3) MTL_4task_train.py: The code for training the multitask Unet
